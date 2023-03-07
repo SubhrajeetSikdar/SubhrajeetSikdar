@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SubhrajeetSikdar
-- 👀 I’m interested in ..Wenb Development
+- 👀 I’m interested in ..Web Development
 - 🌱 I’m currently learning ...Java and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
