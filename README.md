@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @SubhrajeetSikdar
-- 👀 I’m interested in ..Web Development
-- 🌱 I’m currently learning ...Java and C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SubhrajeetSikdar/SubhrajeetSikdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer and Graphic Designer with a passion for creating innovative and user-friendly digital products.
+Currently I am student at Siksha O Anusandhan University, majoring in Computer Science and minoring in Graphic Design. With a strong foundation in both front-end and back-end development, I am proficient in a variety of programming languages and technologies, including HTML, CSS, JavaScript, React, Node.js, Python, and MySQL. I am also proficient in graphic design software, such as Adobe Photoshop, Illustrator, and InDesign.
+I have experience working on a variety of projects, from small personal projects to large-scale enterprise applications. As an active member of the open-source community, and I have contributed to several popular projects. I am looking for a full-time position as a full stack developer or graphic designer where I can use my skills and experience to create innovative and user-friendly digital products
