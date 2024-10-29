@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Andriod Development, Typescript and Cloud Computing.**
 
-- 👨‍💻 All of my projects are available at [https://subhbrajeetportfolio.dorik.io/](https://subhbrajeetportfolio.dorik.io/)
+- 👨‍💻 All of my projects are available at https://subhrajeet-sikdar.dorik.io/
 
 - 💬 Ask me about **Python,Java,C++,C and Front and Back End related stufss.**
 
